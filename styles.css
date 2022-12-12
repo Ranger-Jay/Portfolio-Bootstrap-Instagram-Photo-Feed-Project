@@ -1,0 +1,55 @@
+/*colored just to test if it works */
+/* .icon {
+color: red; 
+font-size: 1.5em;
+font-weight: bold;
+} */
+
+/* nav {
+    font-weight: bold;
+} */
+
+/* .navbar-brand i {
+    margin-right: 4px;
+} */
+
+/* .stack-right {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* .nav-link-dropdown-toggle i {
+    padding-right: 20px;
+} */
+
+body{
+    background-color: #DEDEDE;
+}
+
+a.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.active a i{
+    color: white !important;
+}
+
+.page-link {
+    background-color: #DEDEDE ;
+}
+
+.page-link:hover {
+    background-color: #DEDEDE ;
+}
+
+.pagination > .active > a
+{
+    color: white;
+    background-color: grey !important;
+    border: solid 1px grey !important;
+    border-radius: 0 !important;
+}
+
+#grid_img{
+    width: 100%;
+}
